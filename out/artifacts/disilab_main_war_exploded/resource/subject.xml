@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<class>
+    <subject>
+        <id>1</id>
+        <name>Toán học</name>
+    </subject>
+
+    <subject>
+        <id>2</id>
+        <name>Ngữ văn</name>
+    </subject>
+
+    <subject>
+        <id>3</id>
+        <name>Ngoại ngữ</name>
+    </subject>
+
+    <subject>
+        <id>4</id>
+        <name>Sinh học</name>
+    </subject>
+
+    <subject>
+        <id>5</id>
+        <name>Vật lý</name>
+    </subject>
+
+    <subject>
+        <id>6</id>
+        <name>Hóa học</name>
+    </subject>
+
+    <subject>
+        <id>7</id>
+        <name>Lịch sử</name>
+    </subject>
+
+    <subject>
+        <id>8</id>
+        <name>Địa lý</name>
+    </subject>
+
+    <subject>
+        <id>9</id>
+        <name>Tin học</name>
+    </subject>
+
+    <subject>
+        <id>10</id>
+        <name>Giáo dục công dân / Đạo đức</name>
+    </subject>
+
+    <subject>
+        <id>11</id>
+        <name>Khoa học</name>
+    </subject>
+
+    <subject>
+        <id>12</id>
+        <name>Môn khác</name>
+    </subject>
+</class>

@@ -1,0 +1,13 @@
+
+a
+java:S1192="FDefine a constant instead of duplicating this literal "UTF-8" 6 times.(áò‰øÿÿÿÿ
+t
+java:S1192<"YDefine a constant instead of duplicating this literal "text/html; charset=UTF-8" 3 times.(­„£ûÿÿÿÿ
+’
+java:S1130;"wRemove the declaration of thrown exception 'javax.servlet.ServletException', as it cannot be thrown from method's body.(¶Ü¥ƒüÿÿÿÿ
+„
+java:S1130]"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(—Ù
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ôÉó 
+n
+java:S2226"XRemove this misleading mutable servlet instance field or make it "static" and/or "final"(ãÉò

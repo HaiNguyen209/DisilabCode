@@ -1,0 +1,6 @@
+
+}
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "connection".( éæ¶ıÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¬
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¡ı”úÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(”—Ó°

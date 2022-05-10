@@ -1,0 +1,23 @@
+
+ƒ
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "encrypted".(¦¨ûøÿÿÿÿ8Øßã ˆ0
+~
+java:S1488"aImmediately return this expression instead of assigning it to the temporary variable "decrypted".(Ì¹Æå8Ùßã ˆ0
+x
+java:S1104"VMake SECRET_KEY a static final constant or non-public and provide accessors if needed.(Ï÷ïÙıÿÿÿÿ8Ùßã ˆ0
+v
+java:S1104"TMake skeySpec a static final constant or non-public and provide accessors if needed.(·°Æûÿÿÿÿ8Ùßã ˆ0
+R
+java:S1444"0Make this "public static SECRET_KEY" field final(Ï÷ïÙıÿÿÿÿ8Ùßã ˆ0
+P
+java:S1444".Make this "public static skeySpec" field final(·°Æûÿÿÿÿ8Úßã ˆ0
+w
+java:S3008"URename this field "SECRET_KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ï÷ïÙıÿÿÿÿ8âßã ˆ0
+W
+java:S1118":Add a private constructor to hide the implicit public one.(®†›®8ï®ï‰0
+@
+java:S5542"#Use secure mode and padding scheme.(­ĞÉì8µœä ˆ0
+Ÿ
+java:S1130"}Remove the declaration of thrown exception 'java.io.UnsupportedEncodingException', as it cannot be thrown from method's body.(İİí«øÿÿÿÿ8¶œä ˆ0
+@
+java:S5542"#Use secure mode and padding scheme.(­ĞÉì8·œä ˆ0

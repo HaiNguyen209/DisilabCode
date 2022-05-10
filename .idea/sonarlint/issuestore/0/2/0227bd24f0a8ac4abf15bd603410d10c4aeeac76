@@ -1,0 +1,16 @@
+
+h
+java:S3008"RRename this field "SYMBOLS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ñöÖŠ
+j
+java:S3008"TRename this field "LOWERCASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(°…—”
+j
+java:S3008	"TRename this field "UPPERCASE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ıïõØ
+g
+java:S3008
+"RRename this field "NUMBERS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÓn
+o
+java:S3008"TRename this field "ALL_CHARS" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(È²¿ºıÿÿÿÿ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(œŞ–ÿÿÿÿÿ
+>
+java:S4274"(Replace this assert with a proper check.(¦¼Ú
