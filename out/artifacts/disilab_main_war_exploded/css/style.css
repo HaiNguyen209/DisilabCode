@@ -6186,6 +6186,13 @@ div.upvotejs a.star.check.star-on {
 .copyright--desc a {
     color: #6c727c
 }
+.form-group.invalid .form-control {
+    border-color: #f33a58;
+}
+
+.form-group.invalid .form-message {
+    color: #f33a58;
+}
 
 /*.g-signin2 {*/
 /*    position: absolute;*/

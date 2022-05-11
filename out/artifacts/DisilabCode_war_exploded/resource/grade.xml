@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<class>
+    <grade>
+        <id>1</id>
+        <name>Lớp 1</name>
+    </grade>
+
+    <grade>
+        <id>2</id>
+        <name>Lớp 2</name>
+    </grade>
+
+    <grade>
+        <id>3</id>
+        <name>Lớp 3</name>
+    </grade>
+
+    <grade>
+        <id>4</id>
+        <name>Lớp 4</name>
+    </grade>
+
+    <grade>
+        <id>5</id>
+        <name>Lớp 5</name>
+    </grade>
+
+    <grade>
+        <id>6</id>
+        <name>Lớp 6</name>
+    </grade>
+
+    <grade>
+        <id>7</id>
+        <name>Lớp 7</name>
+    </grade>
+
+    <grade>
+        <id>8</id>
+        <name>Lớp 8</name>
+    </grade>
+
+    <grade>
+        <id>9</id>
+        <name>Lớp 9</name>
+    </grade>
+
+    <grade>
+        <id>10</id>
+        <name>Lớp 10</name>
+    </grade>
+
+    <grade>
+        <id>11</id>
+        <name>Lớp 11</name>
+    </grade>
+
+    <grade>
+        <id>12</id>
+        <name>Lớp 12</name>
+    </grade>
+</class>
